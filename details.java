@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class details {
 
 	public static void main (String[] args) {
+		/**Author : Maria John
+	 * Date : 12/07/2025
+	 */
+	//Details of Student
 		Scanner in = new Scanner(System.in);
 		String name;
 		int age;
